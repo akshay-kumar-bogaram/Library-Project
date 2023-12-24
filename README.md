@@ -1,1 +1,1 @@
-# Library-management-Databse
+This is end to end Library management Database using MySQL
